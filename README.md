@@ -162,6 +162,16 @@ Per-sensor summary:
 }
 ```
 
+### Captured from a live run
+
+`python main.py` on Windows PowerShell:
+
+![main.py demonstration run](docs/screenshots/demo_run.png)
+
+The full test suite — **89 passed**:
+
+![pytest run: 89 passed](docs/screenshots/test_run.png)
+
 ---
 
 ## 7. Known Limitations
