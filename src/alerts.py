@@ -5,8 +5,6 @@ An AlertRule watches one sensor and fires an Alert when a reading leaves its
 sort by severity so they can be dropped straight into a priority queue.
 """
 
-from datetime import datetime
-
 
 class Alert:
     """Something went out of range and someone should know about it."""

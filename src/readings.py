@@ -6,7 +6,6 @@ get how far it sits from a setpoint, and sort them. total_ordering writes the
 comparison methods we don't define ourselves.
 """
 
-from datetime import datetime
 from functools import total_ordering
 
 
