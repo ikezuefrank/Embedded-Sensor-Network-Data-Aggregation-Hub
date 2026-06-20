@@ -1,4 +1,4 @@
-# Embedded Sensor Network Data Aggregation Hub
+⁸# Embedded Sensor Network Data Aggregation Hub
 
 A multi-protocol IoT sensor simulation system for industrial monitoring — built with Python OOP for **CPE 310: Object-Oriented Programming with Python**, Federal University Oye-Ekiti.
 
@@ -26,7 +26,7 @@ Repository: https://github.com/ikezuefrank/Embedded-Sensor-Network-Data-Aggregat
 | 8 | Fasuyi | Kingsley Oluwatosin | CPE/2023/1050 | — |
 | 9 | Fele | Olamide Micheal | CPE/2023/1051 |  Olliboi-01 |
 | 10 | Fowowe | Stephen Oluwamodimu | CPE/2023/1052 | — |
-| 11 | Ibukunoluwa | Oluwanifemi Favour | CPE/2023/1053 | Ibuksmonii40 |
+| 11 | Ibukunoluwa | Oluwanifemi Favour | CPE/2023/1053 | Ibuksmonii40|
 | 12 | Ikezue | Munachukwu Franknoris | CPE/2023/1054 | ikezuefrank |
 | 13 | Ilukoyenikan | Adeolu Joseph | CPE/2023/1055 | — |
 | 14 | Istifanus | Godspower Joseph | CPE/2023/1056 | — | Istifanus02 |
